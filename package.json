@@ -1,0 +1,15 @@
+{
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "firebase": "github:firebase/firebase-bower@^2.2.7",
+      "illuminati-logo": "npm:illuminati-logo@^1.0.1",
+      "jquery": "github:components/jquery@^2.1.4"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.1.13",
+      "babel-runtime": "npm:babel-runtime@^5.1.13",
+      "core-js": "npm:core-js@^0.9.4"
+    }
+  }
+}
