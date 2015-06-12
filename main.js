@@ -4,7 +4,6 @@ import $ from "./jquery";
 import { logo } from "./illuminati-logo";
 import Firebase from "./firebase";
 import { cheers } from "blackmagic";
-import mzr from "./modernizr";
 
 let fb = new Firebase("https://intense-fire-4619.firebaseio.com");
 let $body = $("body");
@@ -20,5 +19,3 @@ $("#finish").click(function(e) {
 
 $("#cheers").click( e => $("div").html(`<h1>${ cheers }</h1>`));
 fb.on("child_changed", data => $("div").html(`<h1>${ data.val() }</h1>`));
-
-mzr();

@@ -14,5 +14,4 @@ serve
 
 Use.
 
-Slides
-[here](https://docs.google.com/presentation/d/115EImsCTptL4X7AXuKVcNZ5sY40tFwpFeSMA7JsuSyI/edit?usp=sharing).
+Slides [here](https://docs.google.com/presentation/d/115EImsCTptL4X7AXuKVcNZ5sY40tFwpFeSMA7JsuSyI/edit?usp=sharing).
